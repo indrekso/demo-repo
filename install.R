@@ -1,1 +1,6 @@
-install.packages(c("tidyverse", "rmarkdown", "corrr", "stargazer", "tinytex", "equatiomatic")
+install.packages("tidyverse")
+install.packages("rmarkdown")
+install.packages("corrr")
+install.packages("stargazer")
+install.packages("tinytex")
+install.packages("equatiomatic")
